@@ -1,0 +1,7 @@
+userName: palashpoddar_pWA5eE
+accessKey: R3Tfxo1UGkq365cmDxLz
+buildName: "Test Run"
+projectName: "Testng-Browserstack"
+framework: testng
+browserstackAutomation: false
+testObservability: true
